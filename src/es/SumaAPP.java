@@ -41,6 +41,9 @@ public class SumaAPP {
         System.out.println("Tu resultado es: ");
         Utilidades.mostrarResultado(resultado);
         Thread.sleep(5000);
+        System.out.println("Estoy conectando NetBeans y GitHub");
+        
+        
 
     }
 
